@@ -1,0 +1,7 @@
+default:
+  swagger:
+    mapErrorsToJson: true
+    docEndpoints:
+      raw: /swagger
+  myConfig: dev
+  myConfig2: test
