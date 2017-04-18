@@ -51,7 +51,9 @@
     "cf-deployment-tracker-client": "0.0.7",
     "request": "^2.60.0",
     "sinon": "^1.17.3",
-    "phantomjs": "^1.9.16"
+    "phantomjs": "^1.9.16",
+    "yaml-env-config":"1.1.0",
+    "write-data":"1.0.0"
   },
   "devDependencies": {
     "async": "*",
@@ -97,9 +99,8 @@
     "should": "^5.2.0",
     "supertest": "^0.15.0",
     "wd": "^0.3.12",
-    "xunit-file": "~0.0.7",
-    "env-config":"1.1.0",
-    "write-data":"1.0.0"
+    "xunit-file": "~0.0.7"
+
   },
   "engines": {
     "node": ">=0.10.0"
