@@ -7,3 +7,5 @@ swagger:
     raw: /swagger
 
 # any other values in this file are just loaded into the config for application access...
+myConfig: dev
+myConfig2: test

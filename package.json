@@ -97,7 +97,9 @@
     "should": "^5.2.0",
     "supertest": "^0.15.0",
     "wd": "^0.3.12",
-    "xunit-file": "~0.0.7"
+    "xunit-file": "~0.0.7",
+    "env-config":"1.1.0",
+    "write-data":"1.0.0"
   },
   "engines": {
     "node": ">=0.10.0"
